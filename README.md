@@ -14,6 +14,7 @@ If a particular job is remote, it will be mentioned next to each job in brackets
 - [USA Jobs](https://github.com/diggerhq/awesome-devops-jobs#usa-jobs)
 - [Maintenance](https://github.com/diggerhq/awesome-devops-jobs#maintenance)
 - [Contributing Guidelines](https://github.com/diggerhq/awesome-devops-jobs#contributing-guidelines)
+- [India Jobs](https://foundthejob.com/category/it-software-jobs/)
 
 # EU & UK Jobs
 
